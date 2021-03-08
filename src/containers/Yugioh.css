@@ -1,0 +1,13 @@
+.my_image {
+    /* background-repeat: no-repeat;
+    background-position: center; */
+}
+
+.my_image:hover {
+    /* -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    width: 200px;
+    height: 200px;
+    margin: 0 auto; */
+}
